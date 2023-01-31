@@ -1,4 +1,4 @@
-NEW ADMIN CAN BE ADDED USING "addyouasadmin.c" or run ./add.o
+NEW ADMIN CAN BE ADDED USING "addyouasadmin.c" or run ./add
 OR REUSE BELOW EXITING ADMIN CREDENTIALS
 USERNAME : karishma1
 PASSWORD : 056
