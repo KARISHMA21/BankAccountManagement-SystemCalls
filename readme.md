@@ -5,7 +5,7 @@ PASSWORD : 056
 
 STEPS
 1. run:  cc server.c -lcrypt -o s
-2. ENter the port 
+2. Enter the port 
 3. run : cc client.c -o c
 4. Enter the port 
 
