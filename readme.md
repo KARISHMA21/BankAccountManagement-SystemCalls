@@ -7,5 +7,5 @@ STEPS
 1. run:  cc server.c -lcrypt -o s
 2. ENter the port 
 3. run : cc client.c -o c
-4. ENter the port 
+4. Enter the port 
 
